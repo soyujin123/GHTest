@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>hello</title>
 </head>
 <body>
 <h2> This is for Github connection</h2>
